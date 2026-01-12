@@ -1,30 +1,37 @@
-## 🚀 LoL Tweaks v1.1
+<img width="1216" height="740" alt="image" src="https://github.com/user-attachments/assets/89349ee3-04ed-427d-9c6a-eab982cbde99" />
 
-**LoL Tweaks** is a lightweight Windows optimization tool designed to improve system responsiveness and gaming performance through safe, automated tweaks.
+## 💥 Features
 
-### ✨ What’s New in v1.1
-- Improved optimization routines for smoother performance  
-- Better hardware detection (CPU & GPU info display)  
-- Refined Windows and privacy tweaks  
-- Added backup functionality for safer tweaking  
-- General stability and usability improvements  
+**LoL Tweaks** includes a wide range of system optimization tools such as:
 
-### 🔧 Features
-- **System Optimizations** – Performance-focused tweaks for gaming  
-- **Hardware Section** – View detected CPU and GPU information  
-- **Windows Tweaks** – Optimize Windows settings for responsiveness  
-- **Privacy Tweaks** – Reduce unnecessary telemetry and background tasks  
-- **Backup Tool** – Create backups before applying changes  
-- **Advanced Options** – Extra tweaks for experienced users  
+* System cleaner that removes temporary files, prefetch data, browser cache, and Windows Update leftovers  
+* Deep drive cleanup and disk optimization  
+* Internet & network optimizations (TCP/IP tuning, RSS, network throttling disable)  
+* Memory optimizations and visual effects tuning for better performance  
+* NTFS and USB performance tweaks  
+* Game Mode enable / disable for gaming performance control  
+* GPU optimizations for **AMD** and **NVIDIA** graphics cards  
+* Power management tweaks including **High Performance** and **Ultimate Performance** power plans  
+* Disable Fast Startup and unnecessary power-saving features  
+* Network interface optimization and IPv6 configuration  
+* Bluetooth enable / disable to reduce latency and power usage  
+* Windows privacy controls (disable telemetry, Cortana, and Windows Copilot)  
+* System tools such as **SFC scan**, **disk check**, **defragmentation**, and **shadow copy cleanup**  
+* One-click presets (**Safe**, **Full**, and **Advanced** system optimization)  
+* Built-in backup tools with system restore point creation and viewing  
+* Advanced options for experienced users (registry, services, custom power plans)  
+* Lightweight, fast, and runs entirely locally  
+* No background services, no telemetry, no bloat  
+* Administrator-enforced execution for proper system safety  
 
-### 🖥️ Requirements
-- Windows 10 / 11  
-- Administrator privileges  
+⚡ **Designed to boost FPS, aggressively reduce input delay, stabilize frame times, eliminate micro-stutter, and minimize system latency for competitive gaming.**
 
-### ⚠️ Disclaimer
-LoL Tweaks modifies system settings. While all tweaks are designed to be safe, use at your own risk. Always create a backup before applying changes.
+More features and improvements coming soon!
 
-### 📌 Notes
-- Script-based and lightweight  
-- No background services or telemetry  
-- Built for gamers who want quick, simple optimizations  
+---
+
+## 💨 Compatibility
+
+LoL Tweaks supports:
+* **Windows 10**
+* **Windows 11**
